@@ -1,8 +1,7 @@
 # 概要
-<img src="https://user-images.githubusercontent.com/27545627/228853636-29e21a2e-c506-415f-b6e8-14e3bbe4be2f.png" width="500px"> <img src="https://user-images.githubusercontent.com/27545627/228853704-808b0868-2ea2-4d46-b55f-a8b53bc408fb.png" width="500px">
-
 タミヤのラダーチェーンとギアボックス、3Dプリントパーツのみで製作したクローラーユニットです。  
 使用するネジ類もタミヤのキット付属品のみで完結します。
+<img src="https://user-images.githubusercontent.com/27545627/228853636-29e21a2e-c506-415f-b6e8-14e3bbe4be2f.png" width="500px"> <img src="https://user-images.githubusercontent.com/27545627/228853704-808b0868-2ea2-4d46-b55f-a8b53bc408fb.png" width="500px">
 
 # 製作に必要なタミヤの部品
 
