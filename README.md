@@ -1,7 +1,11 @@
-# 概要
+# 3DPrintCrawlerV0について
 タミヤのラダーチェーンとギアボックス、3Dプリントパーツのみで製作したクローラユニットです。  
 使用するネジ類もタミヤのセットの付属品のみで完結します。
 ラダーチェーンに履板をパッチっとはめる方式なので履板形状を自由に設計できます。
+
+本リポジトリはみなさんにより早くデータを提供するため、README含め不完全な可能性がある中公開する、β版的な位置づけである点をご了承ください。
+ご意見や改善案のある方は、Twitter、Issues、プルリクなどで問い合わせ及び提案お願いします。
+できる範囲で対応します。また、次期Versionの開発に生かします。
 
 <img src="https://user-images.githubusercontent.com/27545627/228853636-29e21a2e-c506-415f-b6e8-14e3bbe4be2f.png" width="500px"> <img src="https://user-images.githubusercontent.com/27545627/228853704-808b0868-2ea2-4d46-b55f-a8b53bc408fb.png" width="500px">
 
@@ -28,8 +32,9 @@ https://www.tamiya.com/japan/products/72007/index.html
 # ライセンス
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />この 作品 は <a rel="license" href="http://creativecommons.org/licenses/by/4.0/deed.ja">クリエイティブ・コモンズ 表示 4.0 国際 ライセンス</a>の下に提供されています。
 
-本データおよび本データにより製作したクローラーは非営利、営利問わず使用でき、改変、再配布も可能です。再配布の際には「3DPrintCrawlerV0」と本リポジトリのリンクを掲載してください。  
-また、本データにより製作したクローラーを公の場で使用、SNS等で紹介する場合は「3DPrintCrawlerV0」と本リポジトリのリンクを掲載することが望ましいです。  
+本データおよび本データにより製作したクローラーは良識の範囲で自由に非営利、営利問わず使用できます。また、改変、再配布も可能です。　　
+ただし、再配布の際には「3DPrintCrawlerV0」と本リポジトリのリンクを掲載してください。  
+また、本データにより製作したクローラーを公の場で使用、SNS等で紹介する場合はなるべく「3DPrintCrawlerV0」と本リポジトリのリンクを掲載してください。  
 また、本データにより生じた損害等の一切の責任を負いかねますので、ご了承ください。
 
 # 今後の展望
