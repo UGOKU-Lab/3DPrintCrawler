@@ -54,7 +54,7 @@ https://github.com/TomohiroAoki/Multi-Board-Mini
 ## 組み立て参考図
 - スプロケットとクランクプレートの固定：3×8mmタッピングビス（ラダーチェーン付属）　　
 - ギアボックス固定：3×10mmタッピングビス（ギヤボックス付属）
-- アイドラシャフト固定：3×12mmタッピングビス（ギアボックス付属）
+- アイドラシャフト固定：3×12mmタッピングビス（ラダーチェーン付属）
 <img src="https://github.com/TomohiroAoki/3DPrintCrawler/assets/27545627/cd8ea3dc-18a9-4bdb-ab63-537413527758" width="300px">
 <img src="https://github.com/TomohiroAoki/3DPrintCrawler/assets/27545627/6b52ac2e-49dc-4629-8ad1-bbc718be4c46" width="300px">
 <img src="https://github.com/TomohiroAoki/3DPrintCrawler/assets/27545627/2aea14ea-298b-4129-934f-56cb2e95d067" width="300px">
