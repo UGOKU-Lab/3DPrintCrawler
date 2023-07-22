@@ -52,7 +52,25 @@ https://github.com/TomohiroAoki/Multi-Board-Mini
 - ニッパー
 
 ## 組み立て方法
-準備中です、もう少々お待ちください
+![20230722_210454](https://github.com/TomohiroAoki/3DPrintCrawler/assets/27545627/cd8ea3dc-18a9-4bdb-ab63-537413527758)
+![image](https://github.com/TomohiroAoki/3DPrintCrawler/assets/27545627/6b52ac2e-49dc-4629-8ad1-bbc718be4c46)
+![image](https://github.com/TomohiroAoki/3DPrintCrawler/assets/27545627/2aea14ea-298b-4129-934f-56cb2e95d067)
+![image](https://github.com/TomohiroAoki/3DPrintCrawler/assets/27545627/7d3d1193-fd5c-4afd-8138-8c068c410209)
+![image](https://github.com/TomohiroAoki/3DPrintCrawler/assets/27545627/8adcf50c-cfe9-413f-87d0-5329c3ca804c)
+![image](https://github.com/TomohiroAoki/3DPrintCrawler/assets/27545627/471bc2ca-bfef-4471-ad0c-18074a562fd0)
+![image](https://github.com/TomohiroAoki/3DPrintCrawler/assets/27545627/1e77ca79-f89c-4431-b7db-10061b217158)
+![image](https://github.com/TomohiroAoki/3DPrintCrawler/assets/27545627/e99b57ea-ad1d-43d2-a853-91a01ba6455e)
+![image](https://github.com/TomohiroAoki/3DPrintCrawler/assets/27545627/1f10a8be-8486-47be-a1c4-ffdf55aa20d5)
+![image](https://github.com/TomohiroAoki/3DPrintCrawler/assets/27545627/eb563d45-eec9-487a-a9e0-928741e93c30)
+![image](https://github.com/TomohiroAoki/3DPrintCrawler/assets/27545627/d1e2f600-72d4-4f73-abcb-1b461b835604)
+![image](https://github.com/TomohiroAoki/3DPrintCrawler/assets/27545627/5bbbda6e-5040-4c3b-a44e-ac1b8345f4f9)
+![image](https://github.com/TomohiroAoki/3DPrintCrawler/assets/27545627/2242e55f-36c3-4315-a024-ae8d8fab5f6d)
+![image](https://github.com/TomohiroAoki/3DPrintCrawler/assets/27545627/35ff3196-e249-4363-b850-03ab1f82e5a2)
+
+
+
+
+
 
 # ライセンス
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />この 作品 は <a rel="license" href="http://creativecommons.org/licenses/by/4.0/deed.ja">クリエイティブ・コモンズ 表示 4.0 国際 ライセンス</a>の下に提供されています。
